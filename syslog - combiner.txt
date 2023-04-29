@@ -1,0 +1,105 @@
+2023-04-28 00:00:54,232 INFO org.apache.hadoop.mapreduce.Job (main):  map 58% reduce 6%
+2023-04-28 00:01:39,321 INFO org.apache.hadoop.mapreduce.Job (main):  map 59% reduce 6%
+2023-04-28 00:03:21,478 INFO org.apache.hadoop.mapreduce.Job (main):  map 60% reduce 6%
+2023-04-28 00:04:07,544 INFO org.apache.hadoop.mapreduce.Job (main):  map 61% reduce 6%
+2023-04-28 00:05:48,689 INFO org.apache.hadoop.mapreduce.Job (main):  map 62% reduce 6%
+2023-04-28 00:06:35,752 INFO org.apache.hadoop.mapreduce.Job (main):  map 63% reduce 6%
+2023-04-28 00:08:11,886 INFO org.apache.hadoop.mapreduce.Job (main):  map 64% reduce 6%
+2023-04-28 00:09:06,955 INFO org.apache.hadoop.mapreduce.Job (main):  map 65% reduce 6%
+2023-04-28 00:10:08,034 INFO org.apache.hadoop.mapreduce.Job (main):  map 66% reduce 6%
+2023-04-28 00:11:38,147 INFO org.apache.hadoop.mapreduce.Job (main):  map 67% reduce 6%
+2023-04-28 00:12:14,191 INFO org.apache.hadoop.mapreduce.Job (main):  map 71% reduce 6%
+2023-04-28 00:12:18,196 INFO org.apache.hadoop.mapreduce.Job (main):  map 71% reduce 7%
+2023-04-28 00:12:28,209 INFO org.apache.hadoop.mapreduce.Job (main):  map 73% reduce 7%
+2023-04-28 00:12:30,212 INFO org.apache.hadoop.mapreduce.Job (main):  map 73% reduce 8%
+2023-04-28 00:12:41,225 INFO org.apache.hadoop.mapreduce.Job (main):  map 75% reduce 8%
+2023-04-28 00:13:03,253 INFO org.apache.hadoop.mapreduce.Job (main):  map 76% reduce 8%
+2023-04-28 00:13:51,313 INFO org.apache.hadoop.mapreduce.Job (main):  map 77% reduce 8%
+2023-04-28 00:14:53,390 INFO org.apache.hadoop.mapreduce.Job (main):  map 78% reduce 8%
+2023-04-28 00:16:17,493 INFO org.apache.hadoop.mapreduce.Job (main):  map 79% reduce 8%
+2023-04-28 00:17:16,565 INFO org.apache.hadoop.mapreduce.Job (main):  map 80% reduce 8%
+2023-04-28 00:18:52,674 INFO org.apache.hadoop.mapreduce.Job (main):  map 81% reduce 8%
+2023-04-28 00:19:40,731 INFO org.apache.hadoop.mapreduce.Job (main):  map 82% reduce 8%
+2023-04-28 00:21:18,849 INFO org.apache.hadoop.mapreduce.Job (main):  map 83% reduce 8%
+2023-04-28 00:22:04,902 INFO org.apache.hadoop.mapreduce.Job (main):  map 84% reduce 8%
+2023-04-28 00:23:47,022 INFO org.apache.hadoop.mapreduce.Job (main):  map 85% reduce 8%
+2023-04-28 00:24:31,073 INFO org.apache.hadoop.mapreduce.Job (main):  map 86% reduce 8%
+2023-04-28 00:26:11,187 INFO org.apache.hadoop.mapreduce.Job (main):  map 87% reduce 8%
+2023-04-28 00:26:59,242 INFO org.apache.hadoop.mapreduce.Job (main):  map 88% reduce 8%
+2023-04-28 00:28:30,344 INFO org.apache.hadoop.mapreduce.Job (main):  map 89% reduce 8%
+2023-04-28 00:29:25,408 INFO org.apache.hadoop.mapreduce.Job (main):  map 90% reduce 8%
+2023-04-28 00:30:25,477 INFO org.apache.hadoop.mapreduce.Job (main):  map 91% reduce 8%
+2023-04-28 00:31:55,583 INFO org.apache.hadoop.mapreduce.Job (main):  map 92% reduce 8%
+2023-04-28 00:32:25,617 INFO org.apache.hadoop.mapreduce.Job (main):  map 94% reduce 8%
+2023-04-28 00:32:30,623 INFO org.apache.hadoop.mapreduce.Job (main):  map 95% reduce 8%
+2023-04-28 00:32:31,624 INFO org.apache.hadoop.mapreduce.Job (main):  map 96% reduce 9%
+2023-04-28 00:32:37,631 INFO org.apache.hadoop.mapreduce.Job (main):  map 96% reduce 10%
+2023-04-28 00:32:39,634 INFO org.apache.hadoop.mapreduce.Job (main):  map 98% reduce 10%
+2023-04-28 00:32:44,640 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 10%
+2023-04-28 00:32:46,643 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 67%
+2023-04-28 00:32:50,648 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 100%
+2023-04-28 00:32:51,652 INFO org.apache.hadoop.mapreduce.Job (main): Job job_1682633475788_0002 completed successfully
+2023-04-28 00:32:51,722 INFO org.apache.hadoop.mapreduce.Job (main): Counters: 56
+	File System Counters
+		FILE: Number of bytes read=30599
+		FILE: Number of bytes written=4306193
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=1408
+		HDFS: Number of bytes written=0
+		HDFS: Number of read operations=16
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=0
+		S3: Number of bytes read=1080151438
+		S3: Number of bytes written=68
+		S3: Number of read operations=0
+		S3: Number of large read operations=0
+		S3: Number of write operations=0
+	Job Counters 
+		Killed map tasks=1
+		Killed reduce tasks=1
+		Launched map tasks=16
+		Launched reduce tasks=3
+		Data-local map tasks=16
+		Total time spent by all maps in occupied slots (ms)=1660433280
+		Total time spent by all reduces in occupied slots (ms)=460160448
+		Total time spent by all map tasks (ms)=17296180
+		Total time spent by all reduce tasks (ms)=2396669
+		Total vcore-milliseconds taken by all map tasks=17296180
+		Total vcore-milliseconds taken by all reduce tasks=2396669
+		Total megabyte-milliseconds taken by all map tasks=53133864960
+		Total megabyte-milliseconds taken by all reduce tasks=14725134336
+	Map-Reduce Framework
+		Map input records=18862935
+		Map output records=943146739
+		Map output bytes=5658880434
+		Map output materialized bytes=1918
+		Input split bytes=1408
+		Combine input records=943147384
+		Combine output records=725
+		Reduce input groups=5
+		Reduce shuffle bytes=1918
+		Reduce input records=80
+		Reduce output records=5
+		Spilled Records=805
+		Shuffled Maps =48
+		Failed Shuffles=0
+		Merged Map outputs=48
+		GC time elapsed (ms)=10856
+		CPU time spent (ms)=16380160
+		Physical memory (bytes) snapshot=18264428544
+		Virtual memory (bytes) snapshot=96884183040
+		Total committed heap usage (bytes)=17267425280
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=1080151438
+	File Output Format Counters 
+		Bytes Written=68
+2023-04-28 00:32:51,722 INFO org.apache.hadoop.streaming.StreamJob (main): Output directory: s3://kmer-finalproject/tmp/kmercount.root.20230427.233006.065643/output/
